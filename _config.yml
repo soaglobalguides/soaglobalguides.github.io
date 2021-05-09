@@ -113,3 +113,6 @@ search:
   # Supports true or false (default)
   button: false
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
