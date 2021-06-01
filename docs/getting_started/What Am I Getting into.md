@@ -1,0 +1,12 @@
+---
+layout: default
+title: What Am I Getting into?
+parent: Getting Started
+nav_order: 1
+published: true
+---
+
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
