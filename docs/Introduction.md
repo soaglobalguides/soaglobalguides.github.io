@@ -5,6 +5,8 @@ nav_order: 1
 published: true
 ---
 # Table of Contents
+{: .no_toc }
+
 1. TOC
 {:toc}
 
