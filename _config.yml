@@ -4,6 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 title: test title
 description: Test description
 future: true
+color_scheme: dark
 
 # for just-the-docs
 
