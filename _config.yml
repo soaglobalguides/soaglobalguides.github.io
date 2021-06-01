@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 # jekyll
 title: test title
 description: Test description
-future: true
+future: false
 color_scheme: dark
 
 # for just-the-docs
