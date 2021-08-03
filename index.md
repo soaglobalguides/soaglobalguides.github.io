@@ -1,8 +1,6 @@
 ---
 title: Home
 nav_order: 0
+published: true
 ---
-
-# This is a landing page
-
-This is text for the landing page
+![]({{site.baseurl}}/https://i.gifer.com/YVPE.gif)
