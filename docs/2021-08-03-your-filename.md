@@ -19,7 +19,7 @@ With the announcement of [World Gran Colosseum](https://sinoalice.global/en/news
 
 ## Qualifying
 
-Guilds qualify for Colosseum Sin through their performance across the two preceding Gran Colosseums. 
+Guilds qualify for Colosseum Sin tournaments through their performance across the two preceding Gran Colosseums. 
 
 Gran Colosseum performance in this case is calculated by way of two metrics: Sin Points and Lifeforce. Sin Points are calculated based on a flat amount given depending on a guild's Gran Colosseum league placement, with 5,000 points awarded for League 1 and none for League 2, as well as a guild's overall placement in Gran Colosseum, according to the following tables:
 
@@ -60,6 +60,7 @@ Guilds on JP can currently qualify for one of three tournament divisions: Ultima
 Timeslot distribution on JP for 9th Colosseum Sin looks like the following: 
 
 ### Ultimate 32 guilds per timeslot
+
 | Timeslot | # of guilds |
 |---|---|
 | 8:00 | 2 |
@@ -71,6 +72,7 @@ Timeslot distribution on JP for 9th Colosseum Sin looks like the following:
 | 23:00 | 10 |
 
 ### Super Division guilds per timeslot
+
 | Timeslot | # of guilds |
 |---|---|
 | 8:00 | 32 |
@@ -82,6 +84,7 @@ Timeslot distribution on JP for 9th Colosseum Sin looks like the following:
 | 23:00 | 416 |
 
 ### Normal Division guilds per timeslot
+
 | Timeslot | # of guilds |
 |---|---|
 | 8:00 | 64 |
@@ -101,4 +104,44 @@ There are a few more eligibility rules for guilds who want to qualify for Ultima
 - Guilds cannot have 5 or more changed members between the end of Gran Colosseum qualifying and the event page for the main tournament going live. 
 
 Times and dates for these cutoffs are given in the rules page. Incidentally, the maintenance prior to the main tournament event page going live is also when guild names and members are noted for official purposes such as social media posts and prize distribution.
+
+## Scheduling
+
+As noted above, Super and Normal Division tournaments take place within their own timeslot, while Ultimate 32 takes place during a number of different timeslots as it consists of guilds from different timeslots. For the 9th Colosseum Sin, that breakdown looks like the following:
+
+### Ultimate 32 Round Times
+
+| Round | Time (JST) |
+|---|---|
+| Round of 32 | Aug. 29 (Sun) 19:00 |
+| Round of 16 | Sep. 1 (Wed) 21:00 |
+| Round of 8 | Sep. 5 (Sun) 20:00 |
+| Semifinals | Sep. 8 (Wed) 23:00 |
+| Finals | Sep. 12 (Sun) 22:00 |
+
+These dates (matches on Sundays and Wednesdays) and times per round seem to be the standard for all Colosseum Sins (Colosseums Sin?), but I haven't been able to check every single one.
+
+Dates are also established to replay Ultimate 32 rounds in the case of technical errors preventing Colosseum from taking place:
+
+### Ultimate 32 Rematch Round Times
+
+| Round | Time (JST) |
+|---|---|
+| Round of 32 | Aug. 31 (Tue) 19:00 |
+| Round of 16 | Sep. 3 (Fri) 21:00 |
+| Round of 8 | Sep. 7 (Tue) 20:00 |
+| Semifinals | Sep. 10 (Fri) 23:00 |
+| Finals | Sep. 14 (Tue) 22:00 |
+
+For Super and Normal division, the above dates are used but the match will be played during the affected timeslot's normal time.
+
+## Main Tournament Matches
+
+Sin Colosseum tournament matches are single-elimination and decided by the win/loss result of the Colosseum match played. In the case of a tie, the guild with the higher Sin Point total coming into the match will win. 
+
+Demons summoned during Colosseum Sin tournament matches may not be the same as those summoned during that day's regular Colosseum.
+
+Guilds will still have regular Colosseum at their normal timeslot during the tournament period on non-tournament days.
+
+**During the tournament period, guilds cannot disband or change members (add or remove).** This restriction is unlocked at midnight on the second day after your guild exits the tournament. (If your guild loses at 22:00 on the 7th, restrictions will be unlocked at midnight on the 9th.)
 
