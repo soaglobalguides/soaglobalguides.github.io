@@ -48,11 +48,9 @@ Gran Colosseum performance in this case is calculated by way of two metrics: Sin
 So for example, if your guild places 100th in League 1, you would get
 5,000 (base points) + 400 (1 per place for 601-1,000) + 5,000 (10 per place for 101-600) + 50 (50 per place for 51-100) = 10,450 Sin Points. 
 
-Guilds qualify for Colosseum Sin based first on the number of Sin Points gained during the two Gran Colosseums during the qualifying period.
+Guilds qualify for Colosseum Sin based first on the number of Sin Points gained during the two Gran Colosseums during the qualifying period. If guilds tie on Sin Points, Lifeforce is used as a tiebreaker. Sin Points are assigned to a guild and not its players, so a guild will lose its Sin Points if it disbands during the qualification period.
 
 As each timeslot is given a fixed number of Colosseum Sin timeslots (similar to Gran Colosseum Finals), guilds are competing against other guilds in their timeslot for Colosseum Sin placements. If a guild plays both qualifying period Gran Colosseums in the same timeslot, their Sin Points and Lifeforce gained during the two Gran Colosseums will be added. If a guild plays in different timeslots, only the higher score will be taken into account.
-
-If guilds tie on Sin Points, Lifeforce is used as a tiebreaker. Sin Points are assigned to a guild and not its players, so a guild will lose its Sin Points if it disbands during the qualification period.
 
 ## Divisions
 
