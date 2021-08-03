@@ -174,4 +174,6 @@ The special icon, effect, and stamp are usable until the following Colosseum Sin
 | 9-16 | 425 | 50 | 3,500 | 1,300 | 300 | 90 |
 | 17-32 | 400 | 45 | 3,000 | 1,200 | 250 | 75 |
 
-\*Limit Break Items: Items that can be used in place of a weapon in order to Limit Break most weapons. If you look at a weapon on the Sinoalice DB (and have your adblock off or configured properly), you can see if it's eligible for LBing by scrolling down and checking for a circle on the "Colosseum Sin" category on this table: ![](https://i.imgur.com/3FeplCU.png)
+\*Limit Break Items: Items that can be used in place of a weapon in order to Limit Break most weapons. If you look at a weapon on the Sinoalice DB (and have your adblock off or configured properly), you can see if it's eligible for LBing by scrolling down and checking for a circle on the "Colosseum Sin" category on this table: 
+
+![](https://i.imgur.com/3FeplCU.png)
