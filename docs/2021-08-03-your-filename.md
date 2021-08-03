@@ -145,3 +145,32 @@ Guilds will still have regular Colosseum at their normal timeslot during the tou
 
 **During the tournament period, guilds cannot disband or change members (add or remove).** This restriction is unlocked at midnight on the second day after your guild exits the tournament. (If your guild loses at 22:00 on the 7th, restrictions will be unlocked at midnight on the 9th.)
 
+## Rewards
+
+Rewards are given after the end of Colosseum Sin to all members of a guild as recorded during the maintenance before the Colosseum Sin tournaments begin. This means that even if your guild loses early in the tournament, you can change guilds and still receive rewards for the guild you played in after Colosseum Sin ends.
+
+Rewards for Colosseum Sin are given according to Division and placement. Ultimate 32 guilds also receive participation rewards, such as a character skin, a special icon next to your name in battle, a special effect/aura around your character (for top 16 guilds), a special stamp, and an improved Colosseum reward calendar (Colosseum Monthly Participation Bonus) that is generally equivalent to doubled rewards and sometimes a character skin. 
+
+The special icon, effect, and stamp are usable until the following Colosseum Sin tournament, and the icon/effect can be turned on by equipping the title given to you for your performance at that Colosseum Sin. The improved monthly bonus begins the month following your performance at Colosseum Sin and lasts for two months.
+
+### Ultimate 32 Placement Rewards
+
+| Place | Twilight Crystals | Gran Medals | Limit Break Items | Lv. 1 Character Strengthening Material (CSM) | Lv. 2 CSM | Lv. 3 CSM | Lv. 4 CSM |
+|---|---|---|---|---|---|---|---|
+| 1 | 1,000 | 100 | 2 | 10,000 | 3,000 | 1,000 | 300 |
+| 2 | 900 | 90 | 1 | 9,500 | 2,750 | 900 | 270 |
+| 3-4 | 850 | 85 | 1 | 9,000 | 2,500 | 850 | 255 |
+| 5-8 | 800 | 80 | 0 | 8,500 | 2,250 | 800 | 240 |
+| 9-16 | 750 | 75 | 0 | 8,000 | 2,000 | 750 | 225 |
+| 17-32 | 700 | 70 | 0 | 7,500 | 1,750 | 700 | 210 |
+
+### Super Division Placement Rewards
+
+| Place | Twilight Crystals | Gran Medals | Lv. 1 Character Strengthening Material | Lv. 2 CSM | Lv. 3 CSM | Lv. 4 CSM |
+|---|---|---|---|---|---|---|
+| 1 | 600 | 65 | 5,500 | 1,700 | 450 | 150 |
+| 2 | 550 | 65 | 5,000 | 1,600 | 425 | 135 |
+| 3-4 | 500 | 60 | 4,500 | 1,500 | 400 | 120 |
+| 5-8 | 450 | 55 | 4,000 | 1,400 | 350 | 105 |
+| 9-16 | 425 | 50 | 3,500 | 1,300 | 300 | 90 |
+| 17-32 | 400 | 45 | 3,000 | 1,200 | 250 | 75 |
