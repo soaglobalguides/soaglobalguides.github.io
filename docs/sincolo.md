@@ -7,7 +7,7 @@ published: true
 
 # Colosseum Sin
 {: .no_toc }
-(Last updated August 3, 2021)
+(Last updated August 4, 2021)
 
 ## Table of Contents
 {: .no_toc .text-delta }
