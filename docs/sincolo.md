@@ -20,7 +20,7 @@ With the announcement of [World Gran Colosseum](https://sinoalice.global/en/news
 
 ## Qualifying
 
-Guilds qualify for Colosseum Sin tournaments through their performance across the two preceding Gran Colosseums. 
+Guilds qualify for Colosseum Sin tournaments through their performance across the two preceding Gran Colosseums. In the case of 9th Colosseum Sin, this means the 44th Gran Colosseum (July 18-23) and 45th Gran Colosseum (August 15-20) are the qualifiers for the 9th Colosseum Sin tournaments (August 25-September 12). The Gran Colosseum following a Colosseum Sin generally is not a qualifier for the next Colosseum Sin and takes place later in the month (46th Gran Colosseum runs from September 19-24). Gran Colosseum Finals performance is not taken into consideration when determining Colosseum Sin eligibility.
 
 Gran Colosseum performance in this case is calculated by way of two metrics: Sin Points and Lifeforce. Sin Points are calculated based on a flat amount given depending on a guild's Gran Colosseum league placement, with 5,000 points awarded for League 1 and none for League 2, as well as a guild's overall placement in Gran Colosseum, according to the following tables:
 
