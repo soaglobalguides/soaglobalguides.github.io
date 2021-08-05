@@ -54,7 +54,7 @@ As each timeslot is given a fixed number of Colosseum Sin timeslots (similar to 
 
 ## Divisions
 
-Guilds on JP can currently qualify for one of three tournament divisions: Ultimate 32, Super Division, and Normal Division. The number of slots given to each timeslot varies based on a number of factors, such as previous Ultimate 32 performance and Gran Colosseum results. Pokelabo says that roughly speaking, guilds in Division 1 of Gran Colosseum will be placed in Super, while guilds on the higher end of Division 2 will be placed in Normal. I personally would not be surprised if Global gets Super and Normal merged, given the lower population.
+Guilds on JP can currently qualify for one of three tournament divisions: Ultimate 32, Super Division, and Normal Division. The number of slots given to each timeslot varies based on a number of factors, such as previous Ultimate 32 performance and Gran Colosseum results. Pokelabo says that roughly speaking, guilds in Division 1 of Gran Colosseum will be placed in Super, while guilds on the higher end of Division 2 will be placed in Normal. I personally would not be surprised if Global gets Super and Normal merged, given the lower population. Super and Normal Division tournament brackets consist of the 32 guilds closest to one another (guilds that didn't make Ultimate \#1-#32, \#33-#64, etc.)
 
 Timeslot distribution on JP for 9th Colosseum Sin looks like the following: 
 
