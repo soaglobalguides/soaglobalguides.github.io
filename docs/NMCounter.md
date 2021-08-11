@@ -1,3 +1,9 @@
+---
+layout: default
+nav_order: 2
+---
+
+
 # Nightmare Counter
 {: .no_toc }
 (Last updated August 12, 2021)
