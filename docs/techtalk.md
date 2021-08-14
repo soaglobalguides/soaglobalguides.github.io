@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order: 4
+published: true
 ---
 
 # Sinoalice Global Tech Talk Summary
@@ -52,9 +53,11 @@ Global:
 - The client simply shows the correct language for each text field, meaning that there is no translation-related processing to be done on the server side. 
 
 - They recognize there were times they missed a spot. 
+
 ![whoops](https://i.imgur.com/O78ySTA.png)
 
 - However, because the in-game text is displayed based on downloaded files rather than the client itself, they were able to make quick fixes without having to pass the App Store / Google Play checks required for a new client version. 
+
 ![better than nothing](https://i.imgur.com/JlJ8MTv.png)
 
 ## Other
