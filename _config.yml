@@ -5,6 +5,8 @@ title: Sinoalice Global Guides
 description: Sinoalice Global Guides
 future: false
 color_scheme: dark
+plugins:
+ - jekyll-sitemap
 
 # for just-the-docs
 
