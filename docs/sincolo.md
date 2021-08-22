@@ -7,7 +7,7 @@ published: true
 
 # Colosseum Sin
 {: .no_toc }
-(Last updated August 4, 2021)
+(Last updated August 22, 2021)
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -118,7 +118,7 @@ As noted above, Super and Normal Division tournaments take place within their ow
 | Semifinals | Sep. 8 (Wed) 23:00 |
 | Finals | Sep. 12 (Sun) 22:00 |
 
-These dates (matches on Sundays and Wednesdays) and times per round seem to be the standard for all Colosseum Sins (Colosseums Sin?), but I haven't been able to check every single one.
+These dates (matches on Sundays and Wednesdays) and times per round seem to be the standard for all Colosseum Sins (Colosseums Sin?), but I haven't been able to check every single one. As for Global, they've suggested on Discord that matches will take place on Saturday/Sunday.
 
 Dates are also established to replay Ultimate 32 rounds in the case of technical errors preventing Colosseum from taking place properly:
 
