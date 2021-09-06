@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order: 3
+last_modified_at: 2021-08-12 00:00:00 +0000
 ---
 
 # Conquest Info Bot
