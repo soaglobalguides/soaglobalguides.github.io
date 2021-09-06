@@ -2,6 +2,7 @@
 layout: default
 nav_order: 4
 published: true
+last_modified_at: 2021-08-14 00:00:00 +0000
 ---
 
 # Sinoalice Global Tech Talk Summary
