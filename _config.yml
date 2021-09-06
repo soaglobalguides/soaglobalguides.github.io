@@ -12,3 +12,8 @@ plugins:
 
 ga_tracking: UA-198859322-1
 ga_tracking_anonymize_ip: true
+
+# seo tag
+title: Sinoalice Global Guides
+author: soagg
+tagline: Sinoalice explained
