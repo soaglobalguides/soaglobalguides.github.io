@@ -3,8 +3,9 @@ layout: default
 title: Colosseum Sin
 nav_order: 1
 published: true
-last_modified_at: 2021-08-22 00:00:00 +0000
+last_modified_at: '2021-09-12 00:00:00 +0000'
 ---
+# Update 9/8/2021: [just read this lmao](https://sinoalice.global/en/news/6135c32a)
 
 # Colosseum Sin
 {: .no_toc }
