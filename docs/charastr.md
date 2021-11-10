@@ -1,7 +1,12 @@
+---
+layout: default
+nav_order: 4
+last_modified_at: '2021-11-10 00:00:00 +0000'
+---
 
 # Character Strengthening
 {: .no_toc }
-(Last updated November 11, 2021)
+(Last updated November 10, 2021)
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -79,4 +84,3 @@ You may recall that earlier I wrote that each character has two unique and power
 * Far LB skill: Snow White, Kaguya
 * Far sub LB skill: Alice, Sleeping Beauty
 * Far +2000 HP: Pinocchio, Little Mermaid, Gretel, Hamelin
-
